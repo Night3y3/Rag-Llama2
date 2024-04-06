@@ -1,0 +1,6 @@
+pydantic==1.10.8
+docarray
+pypdf
+langchain_community
+python_dotenv
+langchain
